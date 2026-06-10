@@ -1,0 +1,29 @@
+
+============================================================
+PERIODIC SAFETY UPDATE REPORT
+Drug     : Metformin HCl 500mg
+Period   : 2025-01-01 to 2025-12-31
+Patients : 5,000
+AE Rate  : 2.8%
+Severity : {'mild': 0, 'moderate': 0, 'severe': 0}
+Top Events:
+  - Nausea: 45
+  - Diarrhea: 38
+  - Headache: 22
+B/R      : Favorable — Benefit outweighs Risk
+============================================================
+
+============================================================
+PERIODIC SAFETY UPDATE REPORT
+Drug     : Warfarin 5mg
+Period   : 2025-01-01 to 2025-12-31
+Patients : 3,000
+AE Rate  : 10.0%
+Severity : {'mild': 0, 'moderate': 0, 'severe': 0}
+Top Events:
+  - Bleeding: 95
+  - Bruising: 78
+  - GI Bleeding: 55
+B/R      : ⚠ Unfavorable — Detailed Review Required
+============================================================
+
